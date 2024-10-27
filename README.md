@@ -2,7 +2,6 @@
 
 - 🔮 Futuro desenvolvedor Front End
 - 🌱 Estudando HTML5, CSS3 e JavaScript
-- 😄 Pronouns: ele/dele.
 
 <div style="display: inline-block">
   <a href="https://github.com/Richard-Martins">
